@@ -1,0 +1,10 @@
+request 
+pandas
+numpy
+datetime
+time
+matplotlib
+json 
+bson
+pymongo
+fbprophet
